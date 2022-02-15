@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saniarakit
-- 👀 I’m interested in machine learning, gamedev, 
+- 👀 I’m interested in machine learning, gamedev, mobile develop.
 - 🌱 I’m currently learning all that can make me rich :)
 
 <!---
